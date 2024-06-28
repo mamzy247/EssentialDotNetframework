@@ -1,0 +1,4 @@
+C:\Users\maryam awofolu\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryam awofolu\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\maryam awofolu\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\maryam awofolu\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8N4UMgL35KjY3uvRWR6iq3KXC9O0aL7DBd4S+AfczKEWSubTtVhMAajqOXxy70aZORso3QriNZA+F0tj4dayqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maryam awofolu\\Documents\\Start\\Regex\\Finding\\Finding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maryam awofolu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\maryam awofolu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\maryam awofolu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\maryam awofolu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

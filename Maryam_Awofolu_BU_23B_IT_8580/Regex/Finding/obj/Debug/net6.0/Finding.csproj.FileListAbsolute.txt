@@ -1,0 +1,14 @@
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\obj\Debug\net6.0\Finding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfoInputs.cache
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfo.cs
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\obj\Debug\net6.0\Finding.csproj.CoreCompileInputs.cache
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\bin\Debug\net6.0\Finding.exe
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\bin\Debug\net6.0\Finding.deps.json
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\bin\Debug\net6.0\Finding.runtimeconfig.json
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\bin\Debug\net6.0\Finding.dll
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\bin\Debug\net6.0\Finding.pdb
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\obj\Debug\net6.0\Finding.dll
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\obj\Debug\net6.0\refint\Finding.dll
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\obj\Debug\net6.0\Finding.pdb
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\obj\Debug\net6.0\Finding.genruntimeconfig.cache
+C:\Users\maryam awofolu\Documents\Start\Regex\Finding\obj\Debug\net6.0\ref\Finding.dll
